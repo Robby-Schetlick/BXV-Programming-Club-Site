@@ -1,0 +1,43 @@
+<!DOCTYPE HTML> 
+
+<html>
+	<head>
+		<title>DIY Autonomous Drones</title>
+	</head>
+	<body>
+		<div align="center">
+			<h1 style="color:Red">Charlie Vorbach's UAV Project Site</h1> 
+		</div>
+		
+		<div align="center">
+			<img href="http://www.securitynewsdesk.com/wp-content/uploads/2012/02/UAV-drone-aerial-video-surveillance.jpg">
+		</div>
+		
+		<div>
+			<h2> Favorite Links</h2>
+			<a src="http://imgs.xkcd.com/comics/computer_problems.png">Good</a>
+			<a src="http://mattdturner.com/wordpress/wp-content/uploads/2011/04/punitionis8.jpg">Better</a>
+			<a src="http://imgs.xkcd.com/comics/tech_support_cheat_sheet.png">Best</a>
+		</div>
+		
+		<div>
+			<h2>Favorite Quotes</h2>
+			<p>
+				<b>Terry Pratchett</b> - <br> <i>Always be wary of any helpful item that weighs less than its operating manual.</i> 
+			</p>
+			<p>
+				<b>Douglas Adams</b> - <br> <i>In the beginning the Universe was created. This has made a lot of people very angry and has been widely regarded as a bad move.</i>
+			</p>
+			<p>
+				<b>Randel Monroe</b> - <br> <i>I used to work at NASA in Virginia. It was nothing glamorous; I was just tasked with making code compile for obscure projects, and I wasn't very good at it. Now I spend most of my time drawing pictures and looking at funny things on the Internet, which in retrospect is largely what I did at my old job, too.</i>
+			</p>
+			<p>
+				<b>Alan Turing</b> - <br> <i>We can only see a short distance ahead, but we can see plenty there that needs to be done.</i>
+			</p>
+			<p>
+				<b>Rich Kulawiec - <br> <i>Any sufficiently advanced bug is indistinguishable from a feature.</i>
+			</p>
+			</p>
+		</div>
+	</body>
+<html>
