@@ -1,0 +1,64 @@
+<!-- This is a comment. The computer ignores anything between the <!-- and the -->
+
+<!DOCTYPE HTML> <!--This tag at the top specifies the document is written in html. That stands for Hyper Text Mark-up Language (HTML)-->
+
+<!-- This tag indicates the start of the document. It tells the computer to pay attention to what comes next -->
+<html>
+	<!-- The head contains 'meta' data about the document. This includes the page's name and related documents -->
+	<head>
+		<title>Bronxville Programming Rocks!</title> <!-- The <title> contains the page's title. In many browsers it gets displayed in the page's 'tab' --> 
+	</head>
+	
+	<!-- The body contains the visible part of the page. Any text, images, or links go in here-->
+	<body>
+	
+		<!-- <div> tags group other tags and can impart specific attributes to them. This one centers the headings. -->
+		<div align="center">
+			<h1 style="color:Red">Bronxville</h1> <!-- Heading tags contain titles and other important text. They come in six sizes-->
+			<h2 style="color:DarkOrange">Programming</h2> <!-- You can also change the color of any text-containing tag. -->
+			<h3 style="color:DarkViolet ">Club</h3> <!--Check out this list of colors, http://www.w3schools.com/HTML/html_colornames.asp -->
+			<h4 style="color:Green">Is</h4>
+			<h5 style="color:DodgerBlue">Pretty</h5>
+			<h6 style="color:OliveDrab">Great</h6>
+		</div>
+		
+		<div align="center">
+			<!-- <img> tags work a little differently that others. They specify a location of a picture (URL), a hieght, and a width. Also they don't have a closing </img> tag -->
+			<img src="https://c2.staticflickr.com/4/3389/3331814400_27428abbda_z.jpg?zz=1" width="640" height="440">
+		</div>
+		
+		<div>
+			<h2> Favorite Links</h2>
+			
+			<!-- <a> tags indicate a link. You specify the location using href. -->
+			<a href="http://imgs.xkcd.com/comics/computer_problems.png">Good</a>
+			<a href="http://mattdturner.com/wordpress/wp-content/uploads/2011/04/punitionis8.jpg">Better</a>
+			<a href="http://imgs.xkcd.com/comics/tech_support_cheat_sheet.png">Best</a>
+		</div>
+		
+		<div>
+			<h2>Favorite Quotes</h2>
+			
+			<!-- <p> tags indicate a text paragraph -->
+			<p>
+				<!-- html has a variety of tags for formating text. They include <b> for bold, <i> for italics, and <br> for line break. -->
+				<b>Terry Pratchett</b> - <br> <i>Always be wary of any helpful item that weighs less than its operating manual.</i> 
+			</p>
+			<p>
+				<b>Douglas Adams</b> - <br> <i>In the beginning the Universe was created. This has made a lot of people very angry and has been widely regarded as a bad move.</i>
+			</p>
+			<p>
+				<b>Randel Monroe</b> - <br> <i>I used to work at NASA in Virginia. It was nothing glamorous; I was just tasked with making code compile for obscure projects, and I wasn't very good at it. Now I spend most of my time drawing pictures and looking at funny things on the Internet, which in retrospect is largely what I did at my old job, too.</i>
+			</p>
+			<p>
+				<b>Alan Turing</b> - <br> <i>We can only see a short distance ahead, but we can see plenty there that needs to be done.</i>
+			</p>
+			<p>
+				<b>Rich Kulawiec</b> - <br> <i>Any sufficiently advanced bug is indistinguishable from a feature.</i>
+			</p>
+		</div>
+		
+		<!--http://www.w3schools.com/html/default.asp is a great resource for more html tips and tricks. Feel free to check it out-->
+		
+	</body>
+<html>
